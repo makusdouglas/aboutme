@@ -59,6 +59,7 @@ header {
   height: 100%;
   width: 100%;
   background-image: url('https://images7.alphacoders.com/316/thumb-1920-316742.jpg');
+  filter: blur(2px);
 }
 
 .bg-master-race { 
