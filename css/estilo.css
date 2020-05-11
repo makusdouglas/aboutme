@@ -1,0 +1,38 @@
+body {
+  background-image: url('https://blog.learncafe.com/wp-content/uploads/2016/10/Android.png');
+  font-family: sans-serif;
+  background-repeat: no-repeat;
+  background-size: fill;
+}
+
+.menu {
+  background-color: #ffffff;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-title {
+  color: whitesmoke;
+  text-align: center;
+}
+
+.site-subtitle {
+  color: whitesmoke;
+  text-align: center;
+  font-style: italic;
+}
